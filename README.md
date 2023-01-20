@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhav-gopal
 - 👀 I’m interested in ... music, cinematography, basketball and coding
-- 🌱 I’m currently learning ... c++, java, and javascript
+- 🌱 I’m currently learning ... c++, machine learning, and node.js
 - 💞️ I’m looking to collaborate on ... a custom game engine someday
-- 📫 How to reach me ... dont
+- 📫 How to reach me ...  or reach me at vabsgop@gmail.com
