@@ -2,10 +2,18 @@
 # Hi I'm Vaibhav Gopal 👋🗿
 
 
-<div align="center" id="stats" style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-gopal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-gopal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=contribs,prs" />
-</span>
+<div id="badges" align="center" style="display:flex;">
+  <img src="https://img.shields.io/badge/Currently_Learning-Rust-brown?logo=rust" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-C++-orange?logo=cplusplus" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-WASM-violet?logo=webassembly" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-Linux-green?logo=linux" alt="Currently Online"/>
+</div>
+
+<div id="skills" align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,rust,c++,bash" alt="skill icons" />
+  </a>
+</div>
 
 <div id="socials" align="center" style="display:flex;">
   <div id="badges">
@@ -26,3 +34,10 @@
     </a>
   </div>
 </div>
+
+<div align="center" id="stats" style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-gopal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-gopal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=contribs,prs" />
+</span>
+
+
