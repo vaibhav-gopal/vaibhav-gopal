@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhav-gopal
-- 👀 I’m interested in ... music, cinematography, basketball and coding
-- 🌱 I’m currently learning ... c++, machine learning, and node.js
+- 👀 I’m interested in ... CODING!!!! (and also music, 3D art, and cinematography)
+- 🌱 I’m currently learning ... Rust, C++, and Embedded Programming
 - 💞️ I’m looking to collaborate on ... a custom game engine someday
 - 📫 How to reach me ... (647) 562 9962 or reach me at vabsgop@gmail.com
