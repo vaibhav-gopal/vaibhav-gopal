@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @vaibhav-gopal
-- 👀 I’m interested in ... CODING!!!! (and also music, 3D art, and cinematography)
-- 🌱 I’m currently learning ... Rust, C++, and Embedded Programming
-- 💞️ I’m looking to collaborate on ... a custom game engine someday
-- 📫 How to reach me ... (647) 562 9962 or reach me at vabsgop@gmail.com
+
+# Hi I'm Vaibhav Gopal 👋🗿
+
+- Hello
+
+<div id="header" align="center">
+  <div align="center" id="stats" style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-gopal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-gopal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=contribs,prs" />
+  </span>
+</div>
