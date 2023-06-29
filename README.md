@@ -11,7 +11,7 @@
 
 <div id="skills" align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,rust,c++,bash" alt="skill icons" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,rust,cpp,bash,arduino,blender,figma,docker,gamemakerstudio,git,github,godot,heroku,linux,md,jquery,react,matlab,mysql,neovim,nextjs,nodejs,php,processing,py,raspberrypi,regex,selenium,tailwind,ts,vim,vite,webpack,wordpress" alt="skill icons" />
   </a>
 </div>
 
