@@ -1,16 +1,28 @@
 
 # Hi I'm Vaibhav Gopal 👋🗿
 
-- Hello
 
-<div id="header" align="center">
-  <span style="display:block;>
-    
-    # Hi I'm Vaibhav Gopal 👋🗿
-    
-  </span>
-  <div align="center" id="stats" style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-gopal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-gopal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=contribs,prs" />
-  </span>
+<div align="center" id="stats" style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-gopal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-gopal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide=contribs,prs" />
+</span>
+
+<div id="socials" align="center" style="display:flex;">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/vaibhav-gopal/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/alawngnome/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/emperorBaebhav">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://devpost.com/vabsgop?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+      <img src="https://img.shields.io/badge/Devpost-red?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
+    </a>
+    <a href="https://google.com">
+      <img src="https://img.shields.io/badge/Personal_Website-green?style=for-the-badge&logo=none&logoColor=white" alt="Personal Website Badge"/>
+    </a>
+  </div>
 </div>
