@@ -10,7 +10,7 @@
 
 - hey, my name is Vaibhav Gopal and I'm a guy interested in software programming and embedded systems.
 - came out the womb with a pc
-
+- i am indian with 2in penis
 ## Skills 🦾
 
 <div id="skills" align="center">
