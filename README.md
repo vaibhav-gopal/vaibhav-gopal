@@ -2,15 +2,16 @@
 # Hi I'm Vaibhav Gopal 👋🗿
 
 <div id="badges" align="center" style="display:flex;">
-  <img src="https://img.shields.io/badge/Currently_Learning-Rust-brown?logo=rust" alt="Currently Online"/>
-  <img src="https://img.shields.io/badge/Currently_Learning-C++-orange?logo=cplusplus" alt="Currently Online"/>
-  <img src="https://img.shields.io/badge/Currently_Learning-WASM-violet?logo=webassembly" alt="Currently Online"/>
-  <img src="https://img.shields.io/badge/Currently_Learning-Linux-green?logo=linux" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-Rust-brown?logo=rust" alt="Currently Learning Rust"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-C++-orange?logo=cplusplus" alt="Currently Learning C++"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-WASM-violet?logo=webassembly" alt="Currently Learning Web Assembly"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-Linux-green?logo=linux" alt="Currently Learning Linux"/>
 </div>
 
-- hey, my name is Vaibhav Gopal and I'm a guy interested in software programming and embedded systems.
-- came out the womb with a pc in one hand and a piano in another
-- 
+- hey, my name is Vaibhav Gopal and I'm a guy interested in software and embedded programming.
+- my main hobbies are piano, 3D art, design and cinematography
+- hit me up if you want to collab on a project (please,please,please)
+- Reach me at (647) 562-9962 and vabsgop@gmail.com
 
 ## Skills 🦾
 
