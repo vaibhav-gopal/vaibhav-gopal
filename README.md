@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Currently_Learning-Linux-green?logo=linux" alt="Currently Online"/>
 </div>
 
+- hey, my name is Vaibhav Gopal and I'm a guy interested in software programming and embedded systems.
+- came out the womb with a pc
+
 ## Skills 🦾
 
 <div id="skills" align="center">
