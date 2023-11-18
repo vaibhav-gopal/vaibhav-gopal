@@ -17,7 +17,7 @@
 
 <div id="skills" align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,rust,cpp,bash,arduino,blender,figma,docker,gamemakerstudio,git,github,godot,heroku,linux,md,react,matlab,mysql,neovim,nextjs,nodejs,processing,py,raspberrypi,regex,selenium,tailwind,ts,vim,vite,webpack" alt="skill icons" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,rust,cpp,bash,powershell, arduino,blender,figma,docker,gamemakerstudio,git,github,godot,heroku,linux,md,react,matlab,mysql,neovim,nextjs,nodejs,processing,py,raspberrypi,regex,selenium,tailwind,ts,vim,vite,webpack" alt="skill icons" />
   </a>
 </div>
 
