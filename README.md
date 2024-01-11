@@ -2,10 +2,9 @@
 # Hi I'm Vaibhav Gopal 👋🗿
 
 <div id="badges" align="center" style="display:flex;">
-  <img src="https://img.shields.io/badge/Currently_Learning-Rust-brown?logo=rust" alt="Currently Learning Rust"/>
-  <img src="https://img.shields.io/badge/Currently_Learning-C++-orange?logo=cplusplus" alt="Currently Learning C++"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-ML-brown?logo=pytorch" alt="Currently Learning ML"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-PCB-Design-orange?logo=circuitverse" alt="Currently Learning PCB Design"/>
   <img src="https://img.shields.io/badge/Currently_Learning-WASM-violet?logo=webassembly" alt="Currently Learning Web Assembly"/>
-  <img src="https://img.shields.io/badge/Currently_Learning-Linux-green?logo=linux" alt="Currently Learning Linux"/>
 </div>
 
 - hey, my name is Vaibhav Gopal and I'm a guy interested in software and embedded programming.
@@ -31,13 +30,7 @@
     <a href="https://www.instagram.com/alawngnome/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/emperorBaebhav">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://devpost.com/vabsgop?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-      <img src="https://img.shields.io/badge/Devpost-red?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
-    </a>
-    <a href="https://google.com">
+    <a href="https://vaibhavgopal.pages.dev">
       <img src="https://img.shields.io/badge/Personal_Website-green?style=for-the-badge&logo=none&logoColor=white" alt="Personal Website Badge"/>
     </a>
   </div>
