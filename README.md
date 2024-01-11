@@ -3,7 +3,7 @@
 
 <div id="badges" align="center" style="display:flex;">
   <img src="https://img.shields.io/badge/Currently_Learning-ML-brown?logo=pytorch" alt="Currently Learning ML"/>
-  <img src="https://img.shields.io/badge/Currently_Learning_PCB-Design-orange?logo=circuitverse" alt="Currently Learning PCB Design"/>
+  <img src="https://img.shields.io/badge/Currently_Learning-PCB-orange-Design-orange?logo=circuitverse" alt="Currently Learning PCB Design"/>
   <img src="https://img.shields.io/badge/Currently_Learning-WASM-violet?logo=webassembly" alt="Currently Learning Web Assembly"/>
 </div>
 
