@@ -10,7 +10,10 @@
 - I'm a computer engineering student, and I make random tools & libraries.
 - Math, games & music scratch a particular itch for me, so I like to focus on those areas. Otherwise I
   like to solve problems and work on emerging research & tech.
-- If you have a cool idea, contact me @ vabsgop@gmail.com or vabsgop@proton.me. I'd love to work on it.
+
+<!-- tend:contact -->
+If you have a cool idea, contact me @ vabsgop@gmail.com or vabsgop@proton.me. I'd love to work on it.
+<!-- /tend:contact -->
 
 ## Recent projects 🛠️
 
@@ -45,6 +48,7 @@
 
 ## Socials 🫥
 
+<!-- tend:socials -->
 <div id="socials" align="center" style="display:flex;">
   <div id="badges">
     <a href="https://www.linkedin.com/in/vaibhav-gopal/">
@@ -58,6 +62,7 @@
     </a>
   </div>
 </div>
+<!-- /tend:socials -->
 
 ## Some Irrelevant Stats 🙃
 
